@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "moralis-admin-cli": "^2.1.16"
+  }
+}
